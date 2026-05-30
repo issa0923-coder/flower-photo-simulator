@@ -2,7 +2,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { motion } from "framer-motion";
-import { Flower2, Plus, RotateCcw, Trash2, Upload, Image as ImageIcon, Layers, sparkles } from "lucide-react";
+import { Flower2, Plus, RotateCcw, Trash2, Upload, Image as ImageIcon, Layers, Sparkles } from "lucide-react";
 import "./styles.css";
 
 const STORAGE_KEY = "virtual-flower-arranger-assets-v1";
